@@ -1,6 +1,6 @@
 # travelByLovey
 <html>
-        <body><!DOCTYPE html>
+        <body>
 <html>
 <body>
   <div class="bg">
